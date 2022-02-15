@@ -1,0 +1,6 @@
+code: strapi-app-demo-bundle
+description: This is for strapi media demo
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+
