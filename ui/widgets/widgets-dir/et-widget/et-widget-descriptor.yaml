@@ -1,0 +1,6 @@
+code: strapi-app-demo-bundle
+titles:
+  en: Strapi media Template MF
+  it: Strapi media Template MF
+group: free
+customUiPath: et-widget.ftl
